@@ -1,0 +1,17 @@
+{
+  "name": "demucs-gui",
+  "version": "1.0.0",
+  "description": "Demucs GUI",
+  "main": "main.js",
+  "repository": "https://github.com/cookey-dev/demucs-gui.git",
+  "author": "Cookeydev",
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^24.1.2"
+  }
+}
